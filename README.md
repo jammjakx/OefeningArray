@@ -1,0 +1,2 @@
+# OefeningArray
+Array variant
