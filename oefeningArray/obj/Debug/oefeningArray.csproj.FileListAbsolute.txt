@@ -1,0 +1,6 @@
+C:\Users\ralph\Desktop\C#\Array\oefeningArray\oefeningArray\bin\Debug\oefeningArray.exe.config
+C:\Users\ralph\Desktop\C#\Array\oefeningArray\oefeningArray\bin\Debug\oefeningArray.exe
+C:\Users\ralph\Desktop\C#\Array\oefeningArray\oefeningArray\bin\Debug\oefeningArray.pdb
+C:\Users\ralph\Desktop\C#\Array\oefeningArray\oefeningArray\obj\Debug\oefeningArray.csprojResolveAssemblyReference.cache
+C:\Users\ralph\Desktop\C#\Array\oefeningArray\oefeningArray\obj\Debug\oefeningArray.exe
+C:\Users\ralph\Desktop\C#\Array\oefeningArray\oefeningArray\obj\Debug\oefeningArray.pdb
